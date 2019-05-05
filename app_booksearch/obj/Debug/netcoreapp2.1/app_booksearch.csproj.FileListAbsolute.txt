@@ -1,0 +1,14 @@
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\bin\Debug\netcoreapp2.1\app_booksearch.deps.json
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\bin\Debug\netcoreapp2.1\app_booksearch.runtimeconfig.json
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\bin\Debug\netcoreapp2.1\app_booksearch.runtimeconfig.dev.json
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\bin\Debug\netcoreapp2.1\app_booksearch.dll
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\bin\Debug\netcoreapp2.1\app_booksearch.pdb
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.csprojAssemblyReference.cache
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.csproj.CoreCompileInputs.cache
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.RazorAssemblyInfo.cache
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.RazorAssemblyInfo.cs
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.AssemblyInfoInputs.cache
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.AssemblyInfo.cs
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.RazorTargetAssemblyInfo.cache
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.dll
+C:\Users\wende\Desktop\bitcoingroup\app_booksearch\app_booksearch\obj\Debug\netcoreapp2.1\app_booksearch.pdb
